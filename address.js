@@ -1,28 +1,15 @@
 module.exports = {
-  "128": {
-    "BRET": "",
+  "56": {
+    "BRET": "0x687222596aC05400bb64216A26a99Fab1D1E04B1",
     // bretUSD is an ERC20 token and also the bretton usd pool
-    "bretUSD": "",
-    "Converter": "",
-    "FeeDistributor": "",
-    "Vault": "",
-    "SwapMiningRewardsCalc": "",
-    "SwapMiningRewards": "",
-    "LiquidityMiningRewards": "",
-    "Treasury": "",
-    "USDT/BRET MDEX-LP": ""
-  },
-  "256": {
-    "BRET": "0xdd010A19259BCdcB018817d5705DE683C2cA9B02",
-    // bretUSD is an ERC20 token and also the bretton usd pool
-    "bretUSD": "0x768329eA938655b46d5bFc863c00609bDA39ef3A",
-    "Converter": "0xFC14efaEE74666F60577D62649871F5827E7409F",
-    "FeeDistributor": "0xC8ccb03a98Db0CDDdF3743fF0D9d99aB943D8299",
-    "Vault": "0x5e3a4FE88a10CDa50827e5a451534226A54B0c98",
-    "SwapMiningRewardsCalc": "0x1d8bad3e6908dC62113c99eeCA67e653fD38428a",
-    "SwapMiningRewards": "0xcf14F8634dE4a86240E89D6ea6d3FF8425A29330",
-    "LiquidityMiningRewards": "0xB7b07071ea1f51084b3030dE43B76A40dBd69C87",
-    "Treasury": "0xB6c0aC940AF5408602f75f2A46426b01D4B71188",
-    "USDT/BRET MDEX-LP": ""
+    "bretUSD": "0xF5BbEF7965D2B0C962b4f686C58001B4677a2685",
+    "Converter": "0x5d61461088F9F62BaD269aaE51E2672bc3463B38",
+    "FeeDistributor": "0x51306624c99f0abA4F5E2fA47C829bEcC5D03A29",
+    "Vault": "0xAC5615c27D50EE5FB5864189778a598024Fb5Ad8",
+    "SwapMiningRewardsCalc": "0xe152de03F0DB0B6e0bc44c806D85D7302fBe0069",
+    "SwapMiningRewards": "0x85F1194186830B567238aA542f8E24116274F4d6",
+    "LiquidityMiningRewards": "0x0C02F9aEe7903A66a03dd52411F267Aa23764560",
+    "Treasury": "0xFBA5CB42809857104143530f3b7F233a23BB9E94",
+    "BUSD/BRET DOGE-LP": "0x11640Ee81a882B9af39739fF8a6A6D699c1e0bBE"
   }
 }
