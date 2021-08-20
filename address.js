@@ -10,6 +10,7 @@ module.exports = {
     "SwapMiningRewards": "0x39c5F46f3dDA3290e47369A3bFF0E22975F551dc",
     "LiquidityMiningRewards": "0x9EF9D31e74c9a521d19c9BB1d704193A7CB4d108",
     "Treasury": "0xe077d798E4e6c2981B131fB9525afCda9795b85C",
+    "Reserve": "0x0bf97c74e87Acc1F77f765797e7493c2a374D295",
     "BUSD/BRET DOGE-LP": "0xD2C9cE1bf3A02cB15ebf4eC8Fc27061B9a9B57e2"
   }
 }
